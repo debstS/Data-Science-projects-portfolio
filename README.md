@@ -11,7 +11,7 @@ A portfolio section bearing information about all my Data Science projects so fa
 ### Project 2: Sales Forecasting with Arima for a Superstore
 * Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
 
-### Project 3: Build recommender System for an e-commerce client - Peak
+### Project 3: Build recommender System for an e-commerce client to analyze shopper and consumer behaviour appeal - Peak workshop
 * Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
 
 ### Project 4: Detecting mental health status using WhatsApp chats using Natural Language Processing
