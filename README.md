@@ -1,8 +1,12 @@
 # Data-Science-projects
-A portfolio section bearing information about all my Data Science projects so far 
+A portfolio section bearing information about all my Data Science projects so far.
 
 ### Project 1: Landscape Genetic Model to study correlation between rise in Malaria cases and Local Habitat practices in light of South Asian lanscape
-* Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
+* A Geospatial project undertaking comprehensive land cover investigation to establish linkage between the human habitat practices and malaria propagation, using the collected data samples comprising of vegetation, animal data, elevations, household details, building material used, water and weather conditions, etc, in the South Asia.
+
+* Implemented using multivariate statistical methods and exploratory data analysis to analyze the environmental patterns and data sources to understand the correlation. 
+
+* To understand how the habitats could be improved and could be made malaria-free, which is still the cause of more than half deaths in this part of the world and globally.
   
 ### Project 2: Sales Forecasting with Arima for a Superstore
 * Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
