@@ -1,4 +1,4 @@
-# Data-Science-projects
+# Data Science projects portfolio
 A portfolio section bearing information about all my Data Science projects so far.
 
 ### Project 1: Landscape Genetic Model to study correlation between rise in Malaria cases and Local Habitat practices in light of South Asian lanscape
