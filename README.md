@@ -1,22 +1,25 @@
 ## A portfolio section bearing information about all my Data Science projects so far.
 
 ### Project 1: Landscape Genetic Model to study correlation between rise in Malaria cases and Local Habitat practices in light of South Asian lanscape
-* A Geospatial project undertaking comprehensive land cover investigation to establish linkage between the human habitat practices and malaria propagation, using the collected data samples comprising of vegetation, animal data, elevations, household details, building material used, water and weather conditions, etc, in the South Asia.
+* A Geospatial data science project undertaking comprehensive land cover investigation to establish linkage between human habitat practices and Malaria propagation
+* Imbalanced and unstructured datasets comprising of 150+ columns
+* Employed multivariate statistical methods and Exploratory data analysis to analyze environmental patterns and its correlation with spread of Malaria in the region  
 
-* Implemented using multivariate statistical methods and exploratory data analysis to analyze the environmental patterns and data sources to understand the correlation. 
-
-* To understand how the habitats could be improved and could be made malaria-free, which is still the cause of more than half deaths in this part of the world and globally.
   
-### Project 2: Sales Forecasting with Arima for a Superstore
-* Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
-
+### Project 2: Customer Churn analysis based on a HelloFresh case study
+* This project aims to analyse Customer churn in light of real HelloFresh datasets, and extract some powerful insights
+  
 ### Project 3: Build recommender System for an e-commerce client to analyze shopper and consumer behaviour appeal - Peak workshop
-* Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
+* Built a basic recommender system based on collaborative filtering algorithm in one of Peak's workshops 
 
-### Project 4: Detecting mental health status using WhatsApp chats using Natural Language Processing
-* Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
+### Project 4: Detecting mental health status using WhatsApp chats in Natural Language Processing
+* Performed multi-class classification on real-time social media interactions for a population to detect mental health status using Large Language Models and web scraping 
 
 ### Project 5: Multivariable Logistic Regression to understand churn prediction for MOOC attrition using social, behavioral and analytical factors
-* Performed statistical testing using ARIMA model for the time-series data for a Supermarket shampoo sales to find out data stationarity
+* Explored logistic regression to understand student attrition rates for courses on popular online education platforms such as EdX and Coursera
+
+### Project 6: 'Predict click rate' study based on Trivago Case Study
+* The goal of this study is to predict how often a hotel will be clicked based on certain characteristics of the hotel.
+* It also aims to provide the right accommodations for users and help advertisers to run well-performing campaigns on the trivago website
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
