@@ -1,5 +1,21 @@
 ## A portfolio section bearing information about all my Data Science projects so far.
 
+Below are the broad categories of all the projects that have been/will be covered by me. Each week I will add a new project to any of the below categories depending on the domain. 
+Enjoy the read, Explorer :) 
+
+
+## The World of Geospatial data science 
+## A/B Testing projects 
+## Data Analysis projects 
+## Power BI projects
+## Natural Language Processing projects 
+## Large Language Model projects
+## Hey there, I am your own Custom Chatbot ! (using Langchain, Huggingface, OpenAI API, Llama 2, etc)
+## Research Papers and Case study implementation projects as PoCs (HelloFresh, Trivago)
+## Trying out some stuff (journalism Data Science use cases/making wportfolio website)
+
+
+
 ### Project 1: Landscape Genetic Model to study correlation between rise in Malaria cases and Local Habitat practices in light of South Asian lanscape
 * A Geospatial data science project undertaking comprehensive land cover investigation to establish linkage between human habitat practices and Malaria propagation
 * Imbalanced and unstructured datasets comprising of 150+ columns
