@@ -6,6 +6,7 @@ Enjoy the read, Explorer :)
 
 ## The World of Geospatial data science 
 ## A/B Testing projects 
+# Time-series forecasting project
 ## Data Analysis projects 
 ## Power BI projects
 ## Natural Language Processing projects 
