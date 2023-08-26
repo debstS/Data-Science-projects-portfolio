@@ -39,4 +39,8 @@ Enjoy the read, Explorer :)
 * The goal of this study is to predict how often a hotel will be clicked based on certain characteristics of the hotel.
 * It also aims to provide the right accommodations for users and help advertisers to run well-performing campaigns on the trivago website
 
+### Project 7: Book recommendation system
+* The goal of this study is to predict how often a hotel will be clicked based on certain characteristics of the hotel.
+* It also aims to provide the right accommodations for users and help advertisers to run well-performing campaigns on the trivago website
+
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
