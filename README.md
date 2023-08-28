@@ -42,18 +42,18 @@ Enjoy the read, Explorer :)
 * Built a basic recommender system based on collaborative filtering algorithm in one of Peak's workshops
 * [More details] https://github.com/debstS/team_11
 
---Below to be continued--
+##--Below to be continued--
 
-## The World of Geospatial data science 
-## A/B Testing projects 
-## Time-series forecasting project
-## Exploratory Data Analysis projects 
-## Power BI projects
-## Natural Language Processing projects 
-## Large Language Model projects
-## Hey there, I am your own Custom Chatbot ! (using Langchain, Huggingface, OpenAI API, Llama 2, etc)
-## Research Papers and Case study implementation projects as PoCs (HelloFresh, Trivago)
-## Trying out some stuff (journalism Data Science use cases/making portfolio website)
+### The World of Geospatial data science 
+### A/B Testing projects 
+### Time-series forecasting project
+### Exploratory Data Analysis projects 
+### Power BI projects
+### Natural Language Processing projects 
+### Large Language Model projects
+### Hey there, I am your own Custom Chatbot ! (using Langchain, Huggingface, OpenAI API, Llama 2, etc)
+### Research Papers and Case study implementation projects as PoCs (HelloFresh, Trivago)
+### Trying out some stuff (journalism Data Science use cases/making portfolio website)
 
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
