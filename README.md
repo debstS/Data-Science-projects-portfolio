@@ -38,9 +38,9 @@ Enjoy the read, Explorer :)
 * It also aims to provide the right accommodations for users and help advertisers to run well-performing campaigns on the trivago website
 * [More details] https://github.com/debstS/trivago_case_study
 
-### Project 8: Build recommender System for an e-commerce client to analyze shopper and consumer behaviour appeal - Peak workshop
+### Project 8: London Real Estate Analysis using Clustering to find areas with highest venues of interest, to help with making best investment decisions while buying a property
 * Built a basic recommender system based on collaborative filtering algorithm in one of Peak's workshops
-* [More details] https://github.com/debstS/team_11
+* [More details] [https://github.com/debstS/team_11](https://github.com/debstS/London-Real-estate-pricing-for-residential-properties/blob/main/README.md)
 
 ##--Below to be continued--
 
