@@ -42,6 +42,11 @@ Enjoy the read, Explorer :)
 * Built a basic recommender system based on collaborative filtering algorithm in one of Peak's workshops
 * [More details] [https://github.com/debstS/team_11](https://github.com/debstS/London-Real-estate-pricing-for-residential-properties/blob/main/README.md)
 
+
+### Project 9: Credit Risk Modelling for a German credit risk company
+* Build a Credit risk model to assess credit worthiness of a loan applicant
+* [More detail] [https://github.com/debstS/Credit-Risk-Modeling/blob/main/README.md]
+
 ##--Below to be continued--
 
 ### The World of Geospatial data science 
