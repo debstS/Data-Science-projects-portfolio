@@ -47,6 +47,9 @@ Enjoy the read, Explorer :)
 * Build a Credit risk model to assess credit worthiness of a loan applicant
 * [More detail] [https://github.com/debstS/Credit-Risk-Modeling/blob/main/README.md]
 
+### Computer Vision projects
+
+
 ##--Below to be continued--
 
 ### The World of Geospatial data science 
